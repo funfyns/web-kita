@@ -221,7 +221,7 @@ body {
 }
 
 .menu .row .menu-card img {
-    border-radius: 5%;
+    border-radius: 10%;
     width: 200px;
     margin: 10px;
 }
@@ -255,7 +255,7 @@ body {
     text-align: center;
     padding: 1rem; /* Add some padding */
     border: 1px solid #eee; /* Optional: Add a subtle border */
-    border-radius: 10%; /* Optional: Rounded corners */
+    border-radius: 5%; /* Optional: Rounded corners */
     box-shadow: 0 2px 5px (var(--primery)); /* Optional: Subtle shadow */
     margin-bottom: 1.5rem; /* Add space between cards */
 }
